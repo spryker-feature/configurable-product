@@ -1,16 +1,29 @@
 {
-  "name": "spryker-feature/configurable-product",
-  "description": "Configurable Product [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.2"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202009.x-dev"
+    "name": "spryker-feature/configurable-product",
+    "description": "Configurable Product [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/date-time-configurator-page-example": "^0.2.0",
+        "spryker-shop/product-configuration-cart-widget": "^0.1.0",
+        "spryker-shop/product-configuration-widget": "^0.2.0",
+        "spryker-shop/product-configurator-gateway-page": "^0.4.0",
+        "spryker-shop/sales-product-configuration-widget": "^0.1.0",
+        "spryker/product-configuration": "^0.2.0",
+        "spryker/product-configuration-cart": "^0.1.0",
+        "spryker/product-configuration-data-import": "^0.1.0",
+        "spryker/product-configuration-gui": "^0.1.0",
+        "spryker/product-configuration-persistent-cart": "^0.1.0",
+        "spryker/product-configuration-storage": "^0.2.0",
+        "spryker/sales-product-configuration": "^0.1.0",
+        "spryker/sales-product-configuration-gui": "^0.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
     }
-  }
 }
