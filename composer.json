@@ -6,11 +6,9 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/product-configuration-cart-widget": "^1.0.0",
-        "spryker-shop/product-configuration-shopping-list-widget": "^1.0.0",
         "spryker-shop/product-configuration-widget": "^1.0.0",
-        "spryker-shop/product-configuration-wishlist-widget": "^1.0.0",
         "spryker-shop/product-configurator-gateway-page": "^1.0.0",
         "spryker-shop/sales-product-configuration-widget": "^1.0.0",
         "spryker/product-configuration": "^1.0.0",
@@ -18,9 +16,7 @@
         "spryker/product-configuration-data-import": "^0.2.0",
         "spryker/product-configuration-gui": "^1.0.0",
         "spryker/product-configuration-persistent-cart": "^1.0.0",
-        "spryker/product-configuration-shopping-list": "^1.0.0",
         "spryker/product-configuration-storage": "^1.0.0",
-        "spryker/product-configuration-wishlist": "^1.0.0",
         "spryker/sales-product-configuration": "^1.0.0",
         "spryker/sales-product-configuration-gui": "^1.0.0"
     },
