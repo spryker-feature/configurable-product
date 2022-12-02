@@ -1,6 +1,6 @@
 # Spryker Feature: Configurable Product
 
-
+The Configurable Product allows customers to individualize a product to their liking. Depending on the configuration choices, the product price will be adjusted accordingly. Configured products can be saved, accessed, and configured again in Carts, Shopping, and Wish Lists, and customers can reorder past purchases.
 
 ## Installation
 
