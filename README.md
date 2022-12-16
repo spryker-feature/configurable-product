@@ -22,7 +22,7 @@ composer require spryker-feature/configurable-product
 - [ProductConfigurationStorageExtension ^0.1.0](https://github.com/spryker/product-configuration-storage-extension) (Extension)
 - [Shop.ProductConfigurationWidgetExtension ^1.0.0](https://github.com/spryker-shop/product-configuration-widget-extension) (Extension)
 - [ProductConfigurationWishlist ^1.0.0](https://github.com/spryker/product-configuration-wishlist) (Connector)
-- [ProductConfigurationWishlistsRestApi ^1.0.0](https://github.com/spryker/product-configuration-wishlists-rest-api) (Glue)
+- [ProductConfigurationWishlistsRestApi ^1.1.0](https://github.com/spryker/product-configuration-wishlists-rest-api) (Glue)
 - [ProductConfigurationWishlistsRestApiExtension ^1.0.0](https://github.com/spryker/product-configuration-wishlists-rest-api-extension) (Extension)
 - [Shop.ProductConfigurationWishlistWidget ^1.0.0](https://github.com/spryker-shop/product-configuration-wishlist-widget) (Connector)
 - [Shop.ProductConfigurationWishlistWidgetExtension ^1.0.0](https://github.com/spryker-shop/product-configuration-wishlist-widget-extension) (Extension)
