@@ -11,7 +11,7 @@
         "spryker-shop/product-configuration-widget": "^1.0.0",
         "spryker-shop/product-configurator-gateway-page": "^1.0.0",
         "spryker-shop/sales-product-configuration-widget": "^1.0.0",
-        "spryker/product-configuration": "^1.0.0",
+        "spryker/product-configuration": "^1.1.0",
         "spryker/product-configuration-cart": "^1.0.0",
         "spryker/product-configuration-data-import": "^0.2.0",
         "spryker/product-configuration-gui": "^1.0.0",
