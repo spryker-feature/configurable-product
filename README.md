@@ -2,6 +2,8 @@
 
 The Configurable Product feature allows customers to individualize a product to their liking. Depending on the configuration choices, the product price will be adjusted accordingly. Configured products can be saved, accessed, and configured again in Carts, Shopping, and Wish Lists, and customers can reorder past purchases.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/configurable-product-feature-overview/configurable-product-feature-overview.html)
+
 ## Installation
 
 ```
