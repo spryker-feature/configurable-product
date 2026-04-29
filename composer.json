@@ -18,11 +18,11 @@
         "spryker/product-configuration-persistent-cart": "^1.0.0",
         "spryker/product-configuration-storage": "^1.2.0",
         "spryker/sales-product-configuration": "^1.3.0",
-        "spryker/sales-product-configuration-gui": "^1.0.0"
+        "spryker/sales-product-configuration-gui": "^1.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     }
 }
