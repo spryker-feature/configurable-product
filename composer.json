@@ -7,10 +7,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/product-configuration-cart-widget": "^1.0.0",
-        "spryker-shop/product-configuration-widget": "^1.0.0",
+        "spryker-shop/product-configuration-cart-widget": "^1.1.0",
+        "spryker-shop/product-configuration-widget": "^1.1.0",
         "spryker-shop/product-configurator-gateway-page": "^1.0.0",
-        "spryker-shop/sales-product-configuration-widget": "^1.1.0",
+        "spryker-shop/sales-product-configuration-widget": "^1.2.0",
         "spryker/product-configuration": "^1.5.0",
         "spryker/product-configuration-cart": "^1.1.0",
         "spryker/product-configuration-data-import": "^0.2.0",
@@ -22,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202606.x-dev"
+            "dev-master": "202608.x-dev"
         }
     }
 }
