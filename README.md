@@ -19,7 +19,7 @@ composer require spryker-feature/configurable-product
 - [Shop.ProductConfigurationShoppingListWidget ^1.1.0](https://github.com/spryker-shop/product-configuration-shopping-list-widget) (Connector)
 - [Shop.ProductConfigurationShoppingListWidgetExtension ^1.0.0](https://github.com/spryker-shop/product-configuration-shopping-list-widget-extension) (Extension)
 - [ProductConfigurationsPriceProductVolumesRestApi ^1.1.0](https://github.com/spryker/product-configurations-price-product-volumes-rest-api) (Legacy Glue)
-- [ProductConfigurationsRestApi ^1.3.0](https://github.com/spryker/product-configurations-rest-api) (Legacy Glue)
+- [ProductConfigurationsRestApi ^1.4.0](https://github.com/spryker/product-configurations-rest-api) (Legacy Glue)
 - [ProductConfigurationsRestApiExtension ^1.0.0](https://github.com/spryker/product-configurations-rest-api-extension) (Extension)
 - [ProductConfigurationStorageExtension ^0.1.0](https://github.com/spryker/product-configuration-storage-extension) (Extension)
 - [Shop.ProductConfigurationWidgetExtension ^1.0.0](https://github.com/spryker-shop/product-configuration-widget-extension) (Extension)
